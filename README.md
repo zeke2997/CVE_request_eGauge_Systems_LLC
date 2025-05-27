@@ -15,6 +15,15 @@ The EG3000 energy monitoring device exposes multiple unauthenticated web interfa
 
 - System Telemetry: Software environment details (OS, packages) that may aid further exploit development.
 
+
+## The following products and versions are affected:
+
+- XM7355 (Firmware: MXTGW.221.204)
+- MX522adhe (Firmware: MXTGM.081.215/MXTGM.240.207)
+- XC4150 (Firmware: CXTAT.221.204)
+- XM5365 (Firmware: MXTGW.081.234)
+
+
 ## Impact:
 
 - Privacy Violation: Energy usage patterns may disclose resident behaviors/commercial operations.
