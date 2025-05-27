@@ -2,7 +2,9 @@
 
 ## Unauthenticated Sensitive Data Exposure in eGauge EG3000 Energy Monitor Web Interfaces
 
-## CWE-ID: CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
+## CWE-ID: 
+- CWE-306: Missing Authentication for Critical Function
+- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
 
 ## Vulnerability Overview:
 The EG3000 energy monitoring device exposes multiple unauthenticated web interfaces, allowing unauthorized actors to retrieve sensitive operational and user data without authentication. This violates the principle of least privilege and exposes three categories of critical information:
